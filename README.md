@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Pedro Zangari Faria, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Sebrae com o curso técnico em Informática e atualmente estou cursando Ciência da Computação no Mackenzie. Tenho grande interesse por tecnologia e estou constantemente aprimorando meus conhecimentos em programação. Aqui, você encontrará meus projetos pessoais, acadêmicos e tudo que venho desenvolvendo para aprender e evoluir como programador. Confira meu LinkedIn [aqui](www.linkedin.com/in/pedrozangari) e acompanhe de perto minha jornada em tecnologia e programação.
+Me chamo Pedro Zangari Faria, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Sebrae com o curso técnico em Informática e atualmente estou cursando Ciência da Computação no Mackenzie. Tenho grande interesse por tecnologia e estou constantemente aprimorando meus conhecimentos em programação. Aqui, você encontrará meus projetos pessoais, acadêmicos e tudo que venho desenvolvendo para aprender e evoluir como programador.
 
 ---
 <img 
